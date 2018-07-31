@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ice-cold-pepsi-can-600.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\train\ice-cold-pepsi-can-600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>103</ymin>
+			<xmax>484</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

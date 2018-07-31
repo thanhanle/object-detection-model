@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>lrg_dsc03043.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\train\lrg_dsc03043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>55</ymin>
+			<xmax>397</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

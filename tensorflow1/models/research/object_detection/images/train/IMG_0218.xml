@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0218.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\train\IMG_0218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>187</ymin>
+			<xmax>138</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

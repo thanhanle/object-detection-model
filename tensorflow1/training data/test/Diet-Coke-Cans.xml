@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Diet-Coke-Cans.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\test\Diet-Coke-Cans.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>202</ymin>
+			<xmax>508</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

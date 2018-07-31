@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>800x-1.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\train\800x-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>167</ymin>
+			<xmax>527</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

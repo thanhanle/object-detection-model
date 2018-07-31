@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0293.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\train\IMG_0293.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>126</ymin>
+			<xmax>247</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
